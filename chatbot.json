@@ -1,0 +1,6 @@
+{
+  "app_name": "ChatbotTemplate",
+  "screens": ["chat_window", "settings", "user_profile"],
+  "models": ["Message", "User", "Conversation"],
+  "essential_features": ["real_time_chat", "AI_response", "notifications"]
+}

@@ -1,0 +1,6 @@
+{
+  "app_name": "BookingTemplate",
+  "screens": ["home", "booking_form", "confirmation", "user_profile"],
+  "models": ["Booking", "User", "Service"],
+  "essential_features": ["calendar", "availability_check", "notifications"]
+}
